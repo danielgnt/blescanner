@@ -11,7 +11,7 @@ def which():
         if not capture in alreadySynced:
             toSync.append(capture)
     print("Ready to Sync:")
-    print '\n'.join(toSync)
+    print('\n'.join(toSync))
     return jsonify({"toSync": toSync})
 
 def getSyncedCaptures():
