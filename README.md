@@ -7,3 +7,6 @@ Clone project with xcode and run on your device
 # Syncing
 * Run ```pip install flask```
 * Run ```python PythonSync/app.py```
+
+
+![Screenshot](https://imgur.com/download/xGE2uc8/)
